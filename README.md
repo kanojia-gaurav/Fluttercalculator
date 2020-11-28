@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Images
 
-![](calculator.jpeg)
+<img src="calculator.jpeg" height=500>
